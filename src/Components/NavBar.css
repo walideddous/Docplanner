@@ -1,0 +1,53 @@
+*{margin: 0px;
+padding: 0px;}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background-color: white;
+    width: 100%;
+    padding: 20px 0px;
+}
+.logo-docplanner{
+    width: 25%;
+    color: #ababab;
+}
+li{
+    list-style: none;
+    color: #ababab;
+}
+.aboutcareerdepartment{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    align-items: flex-end;
+    width: 30%;
+    background-color: white;
+    
+}
+.drop-down{
+    display: none;
+    width: 210px;
+    height: 150px;
+}
+.x:hover .drop-down{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white; 
+    
+}
+.active{
+    color: #00b39b;
+}
+.x{
+    color:#ababab;
+}
+.x:hover{
+    color: #00b39b;    
+}

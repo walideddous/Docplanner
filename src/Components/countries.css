@@ -1,0 +1,15 @@
+.countries{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.countriesname{
+    display: flex;
+    justify-content: space-between;
+}
+.seeopenning{
+    background-color: #3d83df;color: white;width: 40%;
+}
+.carte{
+    margin: 20px 0px;
+}

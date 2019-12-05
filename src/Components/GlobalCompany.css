@@ -1,0 +1,21 @@
+.globalcompany{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 0px;
+}
+.title{
+    font-size: 27px;
+    padding: 0px 26px 0px 0px;
+    color: #00b39b;
+    margin: 6.5px 0px 9.1px;
+    width: 30%;
+}
+.svg{
+    display: flex;
+    flex-flow: row wrap;
+    width: 60%;
+}
+.listedepartenaire{
+    margin-right: 65px;
+}

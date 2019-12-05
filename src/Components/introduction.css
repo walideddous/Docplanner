@@ -1,0 +1,37 @@
+.patientsdoctors{
+    display: flex; 
+    justify-content: space-between;
+    padding: 50px 0px;
+    width: 100%;
+}
+.introduction{
+    width: 50%;
+    font-size: 21px;
+    color: #747474;
+    float: left;
+    min-height: 1px;
+    padding: 10px;
+    margin: .8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+.slogonexplication{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: #00b39b;
+    font-size: 37px;
+    padding: 20px;
+  }
+  .slogan{
+    display: flex;
+    justify-content: center;
+  }
+  h1{
+    margin: 1em 0;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: .3px;
+    font-size: 2.125rem;
+    color: #00b39b;
+  }

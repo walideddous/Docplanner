@@ -1,0 +1,10 @@
+.improve{
+    padding: 32px;
+    height: 172px;
+    justify-content: space-around; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.improve h1{font-size: 2.1428571429em; color:#00b39b; text-align: center;}
+.improve p{text-align: center;}
